@@ -1,4 +1,4 @@
-# ROS2Logger's Companion for Testing Performance and Learning how to Utilize
+# ROS2Logger's Companion
 
 [`ROS2Logger`](https://github.com/evannsm/ROS2Logger/blob/main/README.md) is a custom ROS 2 logging utility that makes structured experiment logging painless.
 
